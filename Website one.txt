@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="ur">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>کال کرنے والی ویب سائٹ</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background: linear-gradient(135deg, #e0f7fa, #b2ebf2);
+      font-family: "Noto Nastaliq Urdu", Arial, sans-serif;
+    }
+    a {
+      text-decoration: none;
+      font-size: 24px;
+      font-weight: bold;
+      color: white;
+      background: #00796b;
+      padding: 16px 32px;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+      transition: 0.3s;
+    }
+    a:hover {
+      background: #004d40;
+    }
+  </style>
+</head>
+<body>
+  <!-- یہاں اپنا نمبر ڈالیں -->
+  <a href="tel:+923128165302">📞 مجھے کال کریں</a>
+</body>
+</html>
